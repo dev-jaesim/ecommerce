@@ -21,3 +21,5 @@ A E commerce website developed by using ReactJS
 - [x] Detail page
 - [x] Cart page
 - [x] Adding, removing, updating product
+- [x] Clear cart
+- [x] 404 page
