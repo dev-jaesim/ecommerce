@@ -23,3 +23,4 @@ A E commerce website developed by using ReactJS
 - [x] Adding, removing, updating product
 - [x] Clear cart
 - [x] 404 page
+- [x] Paypal connection
