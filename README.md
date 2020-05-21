@@ -17,3 +17,5 @@ A E commerce website developed by using ReactJS
 ---
 
 ## Features
+
+- [x] Detail page
