@@ -19,3 +19,5 @@ A E commerce website developed by using ReactJS
 ## Features
 
 - [x] Detail page
+- [x] Cart page
+- [x] Adding, removing, updating product
